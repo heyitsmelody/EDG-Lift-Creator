@@ -5,23 +5,23 @@ dependency 'ox_lib'
 Create Lifts in-game with just a few clicks !
 
 Use the command /createlift to open the menu:
-703ab3f70d86df23260284b6d081b4d2da3324e8.png
+![liftcreatormainmenu](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/7ab68f24-c162-46df-975a-03d8f1befbab)
 
 Choose the amount of floors:
-42e85078b5d477049395179b229769d8a8d395f5.png
+![flooramount](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/7ddc3241-9f97-48cd-96e2-55e141445cf2)
 
 After going to the location of the first floor press Enter and choose a name for each floor:
-b0c05cb20169fcdf2f810487477616df1e75cc4d.png
+![floorname](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/ce12cd01-67c9-49ec-af0b-4163701a3e4d)
 
 adjust the Lift Name, Marker type and the scale:
-456f88fd01451239d9b439208389b048b41fef89.png
+![liftsettings](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/34ae34fc-ca24-481e-b6e8-827a60e2d06a)
 
 After confirming you'r lift is beeing created !
 
 You can simply delete created lifts with just 1 click:
-410215519bbeb228dcc953920cda75c2d0dc468e.png
+![deletemenu](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/efccb5ce-e4b8-4fe9-a8b0-f675823fb632)
 
 Showcase :
-f37f3d571c3d5c0238ce9123428dce42b10208f8.png
+![floorselect](https://github.com/heyitsmelody/EDG-Lift-Creator/assets/155805594/621894c0-c94d-4d9d-81cb-613d8dc9d3e3)
 
 BUY: https://eden-garden-shop.tebex.io/package/6262010
